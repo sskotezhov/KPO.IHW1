@@ -1,0 +1,16 @@
+main\java\Command.class
+main\java\parser\checker.class
+main\java\dataclasses\Operation.class
+main\java\dataclasses\BankAccount.class
+main\java\Main.class
+main\java\dataclasses\Fabric.class
+main\java\tables\Table.class
+main\java\dataclasses\DataClass.class
+main\java\tables\CategoriesTable.class
+main\java\tables\OperationTable.class
+main\java\dataclasses\Categories.class
+main\java\interfaces\Identifiable.class
+main\java\interfaces\Typed.class
+main\java\tables\BankAccountTable.class
+main\java\interfaces\Named.class
+main\java\interfaces\Type.class
